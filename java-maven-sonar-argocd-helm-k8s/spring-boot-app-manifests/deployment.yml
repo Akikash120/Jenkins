@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: DockerImage432/ubantu-CICD:replaceImageTag
+        image: sdfgbhjyhtbgrvfsx/ubantu-CICD:replaceImageTag
         ports:
         - containerPort: 8080
